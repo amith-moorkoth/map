@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/62e1f142-c82d-4704-947f-9b5ae16d8ceb)
 
 
-# Getting Started with Create React App
+# Getting Started with WeatherApp
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
